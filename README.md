@@ -38,6 +38,10 @@ This project analyzes 240 sales order records from January to June 2026 using Mi
 ## Project Limitations
 Profit and conversion rate analysis were not included because the available dataset did not contain cost or website traffic information.
 
+## Dashboard Preview
+
+![Power BI Dashboard](Project1/Screenshots/PowerBI_Dashboard.png)
+
 ## Author
 Ekkurthi Rekha
 
